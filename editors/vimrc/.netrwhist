@@ -1,0 +1,5 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_1='/Applications/VLC.app'
+let g:netrw_dirhist_2='/Users/baidu/baidu/code/open-source/python/CUP/examples/arrow-runtime/arrow/agent/conf'
+let g:netrw_dirhist_3='/Users/baidu/baidu/code/open-source/python/CUP/CUP/.git'
