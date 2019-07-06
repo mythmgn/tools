@@ -1,0 +1,6 @@
+neobundle.vim
+nerdcommenter
+syntastic
+unite.vim
+vim-abolish
+vimproc.vim
