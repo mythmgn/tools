@@ -301,7 +301,7 @@ endif
 set tags=tags,~/.vim/mylibtags,~/.vim/systags,../tags,../../tags
 "set completeopt=menu,longest
 set completeopt=menu
-cscope add ./cscope.out
+"cscope add ./cscope.out
 " End ctags/cscope}}}
 
 
