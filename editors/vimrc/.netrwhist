@@ -1,5 +1,9 @@
 let g:netrw_dirhistmax  =10
-let g:netrw_dirhist_cnt =3
+let g:netrw_dirhist_cnt =7
 let g:netrw_dirhist_1='/Applications/VLC.app'
 let g:netrw_dirhist_2='/Users/baidu/baidu/code/open-source/python/CUP/examples/arrow-runtime/arrow/agent/conf'
 let g:netrw_dirhist_3='/Users/baidu/baidu/code/open-source/python/CUP/CUP/.git'
+let g:netrw_dirhist_4='/usr/local/mysql-5.7.16-osx10.11-x86_64/data'
+let g:netrw_dirhist_5='/Users/baidu/baidu/code/baidu/qopen/cup/docs/api-ref/cup'
+let g:netrw_dirhist_6='/Users/baidu/baidu/code/open-source/python/cup_on_github/docs/api-ref'
+let g:netrw_dirhist_7='/Applications/Google Chrome.app'
